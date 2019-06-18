@@ -14,6 +14,8 @@ function logWhisper(string) {
 
 }
 
+console.log(logShout("hello"));
+
 //
 // var uppercase = "HELLO!"
 //
