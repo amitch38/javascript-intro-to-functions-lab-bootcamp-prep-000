@@ -10,7 +10,7 @@ function logShout(string) {
   string.toUpperCase()
 }
 
-console.log(logShout("hey"))
+logShout("hey")
 
 var uppercase = "HELLO!"
 
